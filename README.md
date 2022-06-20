@@ -9,6 +9,11 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/full-mint-website?logo=GitHub)](https://github.com/letnagao/full-mint-website/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
+</ul><h2> Preview ⚡️</h2>
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/99754900/174686429-2b1792f1-315f-4389-9188-fd5235805cd2.mp4" />
+</p>
+
 ## Features 🔥
 ✔️ Build a Flashy Web3 Mint Website <br />
 ✔️ Authentication with MetaMask <br />
