@@ -22,7 +22,7 @@
 ✔️ Asynchronous events handling <br />
 
 ## Technologies used 🛠️
-**Design**: *Chakra ui, Css & HTML Styled Components*<br />
+**Design**: *Chakra UI, CSS3 & Styled Components*<br />
 **Backend**: *NodeJs* <br />
 **Libraries**: <br />
     - **redux-logger**: console logging redux data flow <br />
