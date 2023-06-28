@@ -10,10 +10,12 @@
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
 </ul><h2> Preview ⚡️</h2>
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/174686429-2b1792f1-315f-4389-9188-fd5235805cd2.mp4" />
-</p>
-
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/174686429-2b1792f1-315f-4389-9188-fd5235805cd2.mp4" width=1280 height=800></td>
+  </tr>
+</table>
+     
 ## Features 🔥
 ✔️ Build a Flashy Web3 Mint Website <br />
 ✔️ Authentication with MetaMask <br />
